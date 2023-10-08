@@ -30,7 +30,7 @@ Os principais objetivos desta análise são:
 
 - **Análise_Heart_Attack.ipynb:** Notebook Jupyter contendo a análise exploratória de dados.
 - **heart.csv:** Conjunto de dados utilizado na análise.
-- **LICENSE:** Licença para o projeto (opcional).
+- **LICENSE:** Licença para o projeto.
 
 ## Requisitos de Instalação
 
